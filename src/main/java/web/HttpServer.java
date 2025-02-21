@@ -3,10 +3,6 @@ import java.io.*;
 import java.lang.reflect.*;
 import java.net.*;
 
-import java.io.*;
-import java.lang.reflect.*;
-import java.net.*;
-
 public class HttpServer {
     public static void main(String[] args) throws IOException {
         ServerSocket serverSocket = new ServerSocket(45000);

@@ -1,7 +1,5 @@
 package web;
 
-
-
 import java.io.*;
 import java.net.*;
 
